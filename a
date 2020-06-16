@@ -1,0 +1,32 @@
+[33mcommit b9f071fe66114f7d22ad0bace5f4e09713863b14[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Iusy <iusy98@yahoo.com>
+Date:   Tue Jun 16 16:34:45 2020 +0300
+
+    aded somnething
+
+[33mcommit 1d3787babe7c38bfb9ad98c46b2fdeb0cd8ebd16[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e39951d e2ced94
+Author: Iusy <65960937+Iusy@users.noreply.github.com>
+Date:   Fri Jun 12 14:03:44 2020 +0000
+
+    Merge pull request #1 from Iusy/branch2
+    
+    Update test.txt
+
+[33mcommit e2ced9491cf59b5b9c754ec39a73e451af581e39[m[33m ([m[1;31morigin/branch2[m[33m)[m
+Author: Iusy <65960937+Iusy@users.noreply.github.com>
+Date:   Fri Jun 12 13:45:43 2020 +0000
+
+    Update test.txt
+
+[33mcommit e39951de7eaf004e7c3caa9a18235072bd026372[m
+Author: Iusy <65960937+Iusy@users.noreply.github.com>
+Date:   Fri Jun 12 13:44:54 2020 +0000
+
+    Create test.txt
+
+[33mcommit 66d405de44674d578687a34940f9840529598046[m
+Author: Iusy <65960937+Iusy@users.noreply.github.com>
+Date:   Fri Jun 12 13:42:48 2020 +0000
+
+    Initial commit
